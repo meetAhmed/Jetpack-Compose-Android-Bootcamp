@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">JetpackComposeBootcamp</string>
+    <string name="title_activity_row_and_column">RowAndColumn</string>
+    <string name="title_activity_modifiers">Modifiers</string>
+    <string name="title_activity_image_card">ImageCard</string>
+    <string name="title_activity_styling_text">StylingText</string>
+    <string name="title_activity_state_in_compose">StateInCompose</string>
+    <string name="title_activity_text_field_and_button">TextFieldAndButton</string>
+    <string name="title_activity_compose_list">ComposeList</string>
+    <string name="title_activity_constraint_layout">ConstraintLayout</string>
 </resources>
