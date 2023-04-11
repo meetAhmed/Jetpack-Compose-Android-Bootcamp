@@ -10,6 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.JetpackComposeBootcamp">
         <activity
+            android:name=".MeditationUIBootcamp"
+            android:exported="false"
+            android:label="@string/title_activity_meditation_uibootcamp"
+            android:theme="@style/Theme.JetpackComposeBootcamp" />
+        <activity
+            android:name=".AnimationBootcamp"
+            android:exported="false"
+            android:label="@string/title_activity_animaton_bootcamp"
+            android:theme="@style/Theme.JetpackComposeBootcamp" />
+        <activity
             android:name=".ConstraintLayout"
             android:exported="false"
             android:label="@string/title_activity_constraint_layout"

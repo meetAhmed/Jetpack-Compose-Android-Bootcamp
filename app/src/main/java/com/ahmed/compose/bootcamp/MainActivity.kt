@@ -9,7 +9,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            val intent = Intent(this, ConstraintLayout::class.java)
+            val intent = Intent(this, MeditationUIBootcamp::class.java)
             startActivity(intent)
         }
     }

@@ -8,4 +8,6 @@
     <string name="title_activity_text_field_and_button">TextFieldAndButton</string>
     <string name="title_activity_compose_list">ComposeList</string>
     <string name="title_activity_constraint_layout">ConstraintLayout</string>
+    <string name="title_activity_animaton_bootcamp">AnimatonBootcamp</string>
+    <string name="title_activity_meditation_uibootcamp">MeditationUIBootcamp</string>
 </resources>
