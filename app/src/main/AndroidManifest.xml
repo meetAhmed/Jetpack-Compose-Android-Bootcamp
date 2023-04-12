@@ -10,6 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.JetpackComposeBootcamp">
         <activity
+            android:name=".InstagramFeedUIBootcamp"
+            android:exported="false"
+            android:label="@string/title_activity_instagram_feed_uibootcamp"
+            android:theme="@style/Theme.JetpackComposeBootcamp" />
+        <activity
+            android:name=".NavigationBootcamp"
+            android:exported="false"
+            android:label="@string/title_activity_navigation_bootcamp"
+            android:theme="@style/Theme.JetpackComposeBootcamp" />
+        <activity
+            android:name=".FragmentsBootcamp"
+            android:exported="false"
+            android:label="@string/title_activity_fragments_bootcamp"
+            android:theme="@style/Theme.JetpackComposeBootcamp" />
+        <activity
             android:name=".MeditationUIBootcamp"
             android:exported="false"
             android:label="@string/title_activity_meditation_uibootcamp"

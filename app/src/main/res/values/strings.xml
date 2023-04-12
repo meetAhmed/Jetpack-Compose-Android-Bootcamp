@@ -10,4 +10,7 @@
     <string name="title_activity_constraint_layout">ConstraintLayout</string>
     <string name="title_activity_animaton_bootcamp">AnimatonBootcamp</string>
     <string name="title_activity_meditation_uibootcamp">MeditationUIBootcamp</string>
+    <string name="title_activity_fragments_bootcamp">FragmentsBootcamp</string>
+    <string name="title_activity_navigation_bootcamp">NavigationBootcamp</string>
+    <string name="title_activity_instagram_feed_uibootcamp">InstagramFeedUIBootcamp</string>
 </resources>
